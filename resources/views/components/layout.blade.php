@@ -38,8 +38,8 @@
                                 <li><a class="dropdown-item" href="#">ПРРО</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Контакти</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/contact">Контакти</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
                     </ul>
                 </div>
             </div>
@@ -58,7 +58,7 @@
                     <div class="small m-0 text-white">Copyright &copy; SkyTek {{date('Y')}}</div>
                 </div>
                 <div class="col-auto">
-                    <a class="link-light small" href="#">Контакти</a>
+                    <a class="link-light small" href="/contact">Контакти</a>
                 </div>
             </div>
         </div>
