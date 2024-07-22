@@ -62,8 +62,8 @@
                             <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3">
                                 <i class="bi bi-display"></i>
                             </div>
-                            <h2 class="h5">ПРРО</h2>
-                            <p class="mb-0"><a href="/services/prro">Підтримується одночасно декілька програмних РРО</a></p>
+                            <h2 class="h5"><a href="/services/prro">ПРРО</a></h2>
+                            <p class="mb-0">Підтримується одночасно декілька програмних РРО</p>
                         </div>
                     </div>
                 </div>

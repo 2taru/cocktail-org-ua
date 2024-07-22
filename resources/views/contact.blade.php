@@ -2,11 +2,48 @@
     <!-- Page content-->
     <section class="py-5">
         <div class="container px-5">
-            <!-- Contact form-->
-            <div class="bg-light rounded-3 py-5 px-4 px-md-5 mb-5">
+            <!-- Contact cards-->
+            <div class="bg-light rounded-3 mb-3 py-5 px-4 px-md-5">
                 <div class="text-center mb-5">
                     <h1 class="fw-bolder">Зв'яжись з нами</h1>
-                    <p class="lead fw-normal text-muted mb-0">Задай своє питання</p>
+                </div>
+                <div class="row gx-5 row-cols-2 row-cols-lg-4 py-5">
+                    <div class="col">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
+                                class="bi bi-telephone"></i></div>
+                        <div class="h5">Зателефонуй нам</div>
+                        <p class="text-muted mb-0">
+                            Телефонуйте нам у звичайний робочий час за номером
+                            <br> 050-743-9656
+                            <br> 050-909-0109
+                        </p>
+                    </div>
+                    <div class="col">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
+                                class="bi bi-chat-dots"></i></div>
+                        <div class="h5 mb-2">Напиши на електронну пошту</div>
+                        <p class="text-muted mb-0">svl.skytek@gmail.com</p>
+                    </div>
+                    <div class="col">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
+                                class="bi bi-people"></i>
+                        </div>
+                        <div class="h5">Прийди в офіс</div>
+                        <p class="text-muted mb-0">м. Мукачево вул. Августина Штефана, 25 Офіс 12, 2 поверх</p>
+                    </div>
+                    <div class="col">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
+                                class="bi bi-question-circle"></i></div>
+                        <div class="h5">Центр підтримки</div>
+                        <p class="text-muted mb-0">Перегляньте FAQ та статті підтримки, щоб знайти рішення.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact form-->
+            <div class="bg-light rounded-3 py-5 px-4 px-md-5 mb-3">
+                <div class="text-center mb-5">
+                    <h1 class="fw-bolder">Задай своє питання</h1>
                 </div>
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6">
@@ -75,37 +112,6 @@
                                     type="submit">Надіслати</button></div>
                         </form>
                     </div>
-                </div>
-            </div>
-            <!-- Contact cards-->
-            <div class="row gx-5 row-cols-2 row-cols-lg-4 py-5">
-                <div class="col">
-                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                            class="bi bi-telephone"></i></div>
-                    <div class="h5">Зателефонуй нам</div>
-                    <p class="text-muted mb-0">
-                        Телефонуйте нам у звичайний робочий час за номером 
-                        <br> 050-743-9656
-                        <br> 050-909-0109
-                    </p>
-                </div>
-                <div class="col">
-                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                            class="bi bi-chat-dots"></i></div>
-                    <div class="h5 mb-2">Напиши на електронну пошту</div>
-                    <p class="text-muted mb-0">svl.skytek@gmail.com</p>
-                </div>
-                <div class="col">
-                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-people"></i>
-                    </div>
-                    <div class="h5">Прийди в офіс</div>
-                    <p class="text-muted mb-0">м. Мукачево вул. Августина Штефана, 25 Офіс 12, 2 поверх</p>
-                </div>
-                <div class="col">
-                    <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                            class="bi bi-question-circle"></i></div>
-                    <div class="h5">Центр підтримки</div>
-                    <p class="text-muted mb-0">Перегляньте FAQ та статті підтримки, щоб знайти рішення.</p>
                 </div>
             </div>
         </div>
