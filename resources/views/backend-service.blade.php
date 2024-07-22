@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout doctitle="Бек офіс">
     <!-- Header-->
     <header class="py-5">
         <div class="container px-5">
@@ -61,8 +61,8 @@
                         </button>
                     </div>
                 </div>
-                
             </div>
+            <button type="button" class="btn btn-outline-primary w-150 mt-5">Спробувати</button>
         </div>
     </section>
 </x-layout>

@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout doctitle="FAQ">
     <!-- Page Content-->
     <section class="py-5">
         <div class="container px-5 my-5">

@@ -1,4 +1,4 @@
-<x-layout>
+<x-layout doctitle="Головна">
     <!-- Header-->
     <header class="bg-dark py-5">
         <div class="container px-5">
