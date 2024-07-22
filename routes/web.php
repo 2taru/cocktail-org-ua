@@ -22,3 +22,4 @@ Route::get('/contact', [GlobalController::class, "showContact"]);
 
 // Services routes
 Route::get('/service/backend', [ServicesController::class, "showBackendService"]);
+Route::get('/service/frontend', [ServicesController::class, "showFrontendService"]);

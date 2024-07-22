@@ -10,4 +10,9 @@ class ServicesController extends Controller
     {
         return view('backend-service');
     }
+
+    public function showFrontendService()
+    {
+        return view('frontend-service');
+    }
 }

@@ -7,18 +7,15 @@
                     <div class="my-5 text-center text-xl-start">
                         <h1 class="display-5 fw-bolder text-white mb-2">Програмне забезпечення для ресторанів, барів та
                             кафе</h1>
-                        <ul class="list-unstyled mt-3 mb-3 text-light">
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Просте впровадження</li>
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Широкий функціонал</li>
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Стабільна робота</li>
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Гнучкість та адаптивність</li>
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Хмарне сховище</li>
-                            <li class="list-group-item"><i class="bi bi-caret-right"></i>Доступна ціна</li>
+                        <ul class="list-unstyled mt-5 mb-3 text-light">
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Просте впровадження</li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Широкий функціонал</li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Стабільна робота</li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Гнучкість та адаптивність</li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Хмарне сховище</li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Доступна ціна</li>
                         </ul>
-                        <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                            <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                            <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="col-xl-5 col-xxl-4 d-none d-xl-block text-center">
