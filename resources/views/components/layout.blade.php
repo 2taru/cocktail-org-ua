@@ -6,7 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>TODO</title>
+    <title>
+        @isset($doctitle)
+            {{ $doctitle }} | Cocktail
+        @else
+            Cocktail
+        @endisset
+    </title>
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap icons-->
@@ -27,49 +33,24 @@
                         class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#">Гловна</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Контакти</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/">Гловна</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false">Послуги</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                <li><a class="dropdown-item" href="#">Бек Офіс</a></li>
-                                <li><a class="dropdown-item" href="#">Фронт Офіс</a></li>
+                                <li><a class="dropdown-item" href="/service/backend">Бек Офіс</a></li>
+                                <li><a class="dropdown-item" href="/service/frontend">Фронт Офіс</a></li>
                                 <li><a class="dropdown-item" href="#">Гість</a></li>
                                 <li><a class="dropdown-item" href="#">ПРРО</a></li>
                             </ul>
                         </li>
+                        <li class="nav-item"><a class="nav-link" href="/contact">Контакти</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <!-- Header-->
-        <header class="bg- py-5">
-            <div class="container px-5">
-                <div class="row gx-5 align-items-center justify-content-center">
-                    <div class="col-lg-8 col-xl-7 col-xxl-6">
-                        <div class="my-5 text-center text-xl-start">
-                            <h1 class="display-5 fw-bolder text-white mb-2">Програмне забезпечення для ресторанів, барів та кафе</h1>
-                            <ul class="list-unstyled mt-3 mb-3">
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Просте впровадження</li>
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Широкий функціонал</li>
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Стабільна робота</li>
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Гнучкість та адаптивність</li>
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Хмарне сховище</li>
-                                <li class="list-group-item"><i class="bi bi-caret-right"></i>Доступна ціна</li>
-                              </ul>
-                            <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
-                                <a class="btn btn-outline-light btn-lg px-4" href="#!">Learn More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-5"
-                            src="/logo.png" alt="..." /></div>
-                </div>
-            </div>
-        </header>
+        
         
         {{ $slot }}
 
@@ -83,7 +64,7 @@
                     <div class="small m-0 text-white">Copyright &copy; SkyTek {{date('Y')}}</div>
                 </div>
                 <div class="col-auto">
-                    <a class="link-light small" href="#">Контакти</a>
+                    <a class="link-light small" href="/contact">Контакти</a>
                 </div>
             </div>
         </div>
