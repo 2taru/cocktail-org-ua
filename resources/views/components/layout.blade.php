@@ -32,7 +32,7 @@
                             <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button"
                                 data-bs-toggle="dropdown" aria-expanded="false">Послуги</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
-                                <li><a class="dropdown-item" href="#">Бек Офіс</a></li>
+                                <li><a class="dropdown-item" href="/service/backend">Бек Офіс</a></li>
                                 <li><a class="dropdown-item" href="#">Фронт Офіс</a></li>
                                 <li><a class="dropdown-item" href="#">Гість</a></li>
                                 <li><a class="dropdown-item" href="#">ПРРО</a></li>

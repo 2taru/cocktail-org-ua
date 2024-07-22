@@ -41,28 +41,28 @@
                             <div class="bg-primary bg-gradient text-white rounded-3 mb-3">
                                 <i class="bi bi-back"></i>
                             </div>
-                            <h2 class="h5"><a href="/services/backend">Бек офіс</a></h2>
+                            <h2 class="h5"><a href="/service/backend">Бек офіс</a></h2>
                             <p class="mb-0">Управління процесами, облік, аналітика</p>
                         </div>
                         <div class="col mb-5 h-100">
                             <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3">
                                 <i class="bi bi-front"></i>
                             </div>
-                            <h2 class="h5"><a href="/services/frontend">Фронт офіс</a></h2>
+                            <h2 class="h5"><a href="/service/frontend">Фронт офіс</a></h2>
                             <p class="mb-0">Касова програма зі зручним інтерфейсом</p>
                         </div>
                         <div class="col mb-5 mb-md-0 h-100">
                             <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3">
                                 <i class="bi bi-people-fill"></i>
                             </div>
-                            <h2 class="h5"><a href="/services/guest">Гість</a></h2>
+                            <h2 class="h5"><a href="/service/guest">Гість</a></h2>
                             <p class="mb-0">Ваші відвідувачі зможуть самостійно робити замовлення</p>
                         </div>
                         <div class="col h-100">
                             <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3">
                                 <i class="bi bi-display"></i>
                             </div>
-                            <h2 class="h5"><a href="/services/prro">ПРРО</a></h2>
+                            <h2 class="h5"><a href="/service/prro">ПРРО</a></h2>
                             <p class="mb-0">Підтримується одночасно декілька програмних РРО</p>
                         </div>
                     </div>
