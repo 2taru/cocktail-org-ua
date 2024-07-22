@@ -33,51 +33,43 @@
                     <h2 class="fw-bolder mb-0">Є все необхідне для автоматизації закладу будь-якого розміру та формату
                     </h2>
                 </div>
-                <div class="col-lg-8 container text-center">
-                    <div class="row row-cols-2">
-                        <div class="col">
-                            <div class="container p-2 my-2 rounded-2 bg-dark text-white">
-                                <a href="/service/backend" class="text-decoration-none">
-                                    <h2 class="h5 text-white"> 
-                                        <i class="bi bi-back"></i> 
-                                        Бек офіс
-                                    </h2>
-                                </a>
-                                <p class="mb-2">Управління процесами, облік, аналітика</p>
+                <div class="col-lg-8">
+                    <div class="row gx-5 row-cols-1 row-cols-md-2">
+                        <div class="col mb-5 h-100">
+                            <div class="text-dark rounded-3 mb-3">
+                                <i class="bi bi-back"></i>
                             </div>
+                            <a href="/service/backend" class="text-decoration-none">
+                                <h2 class="h5 text-dark">Бек офіс</h2>
+                            </a>
+                            <p class="mb-0">Управління процесами, облік, аналітика</p>
                         </div>
-                        <div class="col">
-                            <div class="container p-2 my-2 rounded-2 bg-dark text-white">
-                                <a href="/service/frontend" class="text-decoration-none">
-                                    <h2 class="h5 text-white">
-                                        <i class="bi bi-front"></i>
-                                        Фронт офіс
-                                    </h2>
-                                </a>
-                                <p class="mb-2">Касова програма зі зручним інтерфейсом</p>
+                        <div class="col mb-5 h-100">
+                            <div class="feature text-dark rounded-3 mb-3">
+                                <i class="bi bi-front"></i>
                             </div>
+                            <a href="/service/frontend" class="text-decoration-none">
+                                <h2 class="h5 text-dark">Фронт офіс</h2>
+                            </a>
+                            <p class="mb-0">Касова програма зі зручним інтерфейсом</p>
                         </div>
-                        <div class="col">
-                            <div class="container p-2 my-2 rounded-2 bg-dark text-white">
-                                <a href="#" class="text-decoration-none">
-                                    <h2 class="h5 text-white">
-                                        <i class="bi bi-people-fill"></i>
-                                        Гість
-                                    </h2>
-                                </a>
-                                <p class="mb-2">Ваші відвідувачі зможуть самостійно робити замовлення</p>
+                        <div class="col mb-5 mb-md-0 h-100">
+                            <div class="feature text-dark rounded-3 mb-3">
+                                <i class="bi bi-people-fill"></i>
                             </div>
+                            <a href="#" class="text-decoration-none">
+                                <h2 class="h5 text-dark">Гість</h2>
+                            </a>
+                            <p class="mb-0">Ваші відвідувачі зможуть самостійно робити замовлення</p>
                         </div>
-                        <div class="col">
-                            <div class="container p-2 my-2 rounded-2 bg-dark text-white">
-                                <a href="#" class="text-decoration-none">
-                                    <h2 class="h5 text-white">
-                                        <i class="bi bi-display"></i>
-                                        ПРРО
-                                    </h2>
-                                </a>
-                                <p class="mb-2">Підтримується одночасно декілька програмних РРО</p>
+                        <div class="col h-100">
+                            <div class="feature text-dark rounded-3 mb-3">
+                                <i class="bi bi-display"></i>
                             </div>
+                            <a href="#" class="text-decoration-none">
+                                <h2 class="h5 text-dark">ПРРО</h2>
+                            </a>
+                            <p class="mb-0">Підтримується одночасно декілька програмних РРО</p>
                         </div>
                     </div>
                 </div>

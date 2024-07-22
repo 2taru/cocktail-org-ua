@@ -9,8 +9,9 @@
                 </div>
                 <div class="row gx-5 row-cols-2 row-cols-lg-4 py-5">
                     <div class="col">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                class="bi bi-telephone"></i></div>
+                        <div class="feature bg-gradient text-dark rounded-3 mb-3">
+                            <i class="bi bi-telephone"></i>
+                        </div>
                         <div class="h5">Зателефонуй нам</div>
                         <p class="text-muted mb-0">
                             Телефонуйте нам у звичайний робочий час за номером
@@ -19,21 +20,23 @@
                         </p>
                     </div>
                     <div class="col">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                class="bi bi-chat-dots"></i></div>
+                        <div class="feature bg-gradient text-dark rounded-3 mb-3">
+                            <i class="bi bi-chat-dots"></i>
+                        </div>
                         <div class="h5 mb-2">Напиши на електронну пошту</div>
                         <p class="text-muted mb-0">svl.skytek@gmail.com</p>
                     </div>
                     <div class="col">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                class="bi bi-people"></i>
+                        <div class="feature bg-gradient text-dark rounded-3 mb-3">
+                            <i class="bi bi-building"></i>
                         </div>
                         <div class="h5">Прийди в офіс</div>
                         <p class="text-muted mb-0">м. Мукачево вул. Августина Штефана, 25 Офіс 12, 2 поверх</p>
                     </div>
                     <div class="col">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i
-                                class="bi bi-question-circle"></i></div>
+                        <div class="feature bg-gradient text-dark rounded-3 mb-3">
+                            <i class="bi bi-question-circle"></i>
+                        </div>
                         <div class="h5">Центр підтримки</div>
                         <p class="text-muted mb-0">Перегляньте FAQ та статті підтримки, щоб знайти рішення.</p>
                     </div>
