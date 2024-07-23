@@ -1,18 +1,21 @@
-<x-layout doctitle="Контакти">
+<x-layout doctitle="Контактна інформація"
+    description="Контактна інформація для зв'язку з нами: адреса офісу, телефон, 
+    електронна пошта, години роботи та посилання на соціальні мережі. Ми завжди раді 
+    допомогти вам з питаннями щодо нашого програмного забезпечення для ресторанів, барів та кафе.">
     <!-- Page content-->
     <section class="py-5">
         <div class="container px-5">
             <!-- Contact cards-->
             <div class="bg-light rounded-3 mb-3 py-5 px-4 px-md-5">
                 <div class="text-center">
-                    <h1 class="fw-bolder">Зв'яжись з нами</h1>
+                    <h1 class="fw-bolder">Контактні інформація</h1>
                 </div>
                 <div class="row gx-5 row-cols-1 row-cols-lg-4 py-5">
                     <div class="col mt-4">
                         <div class="feature bg-gradient text-dark rounded-3 mb-1">
                             <i class="bi bi-telephone"></i>
                         </div>
-                        <div class="h5">Зателефонуй нам</div>
+                        <h3 class="h5">Зателефонуй нам</h3>
                         <p class="text-muted mb-0">
                             Телефонуйте нам у звичайний робочий час за номером
                             <br> 050-743-9656
@@ -23,21 +26,21 @@
                         <div class="feature bg-gradient text-dark rounded-3 mb-1">
                             <i class="bi bi-chat-dots"></i>
                         </div>
-                        <div class="h5 mb-2">Напиши на електронну пошту</div>
+                        <h3 class="h5 mb-2">Напиши на електронну пошту</h3>
                         <p class="text-muted mb-0">svl.skytek@gmail.com</p>
                     </div>
                     <div class="col mt-4">
                         <div class="feature bg-gradient text-dark rounded-3 mb-1">
                             <i class="bi bi-building"></i>
                         </div>
-                        <div class="h5">Прийди в офіс</div>
+                        <h3 class="h5">Прийди в офіс</h3>
                         <p class="text-muted mb-0">м. Мукачево вул. Августина Штефана, 25 Офіс 12, 2 поверх</p>
                     </div>
                     <div class="col mt-4">
                         <div class="feature bg-gradient text-dark rounded-3 mb-1">
                             <i class="bi bi-question-circle"></i>
                         </div>
-                        <div class="h5">Центр підтримки</div>
+                        <h3 class="h5">Центр підтримки</h3>
                         <p class="text-muted mb-0">Перегляньте FAQ та статті підтримки, щоб знайти рішення.</p>
                     </div>
                 </div>
@@ -46,7 +49,7 @@
             <!-- Contact form-->
             <div class="bg-light rounded-3 py-5 px-4 px-md-5 mb-3">
                 <div class="text-center mb-5">
-                    <h1 class="fw-bolder">Задай своє питання</h1>
+                    <h2 class="fw-bolder">Задай своє питання</h2>
                 </div>
                 <div class="row gx-5 justify-content-center">
                     <div class="col-lg-8 col-xl-6">

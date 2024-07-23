@@ -1,11 +1,14 @@
-<x-layout doctitle="Бек офіс">
+<x-layout doctitle="Бек офіс | Управління процесами, облік, аналітика" 
+    description="Бек офіс для ресторанів, барів та кафе: управління процесами, 
+    облік, аналітика, детальна статистика, планування закупівель, оптимізація меню та складу, 
+    програма лояльності, контроль роботи працівників.">
     <!-- Header-->
     <header class="py-5">
         <div class="container px-5">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="text-center my-5">
-                        <h1 class="fw-bolder mb-3">Бекенд Офіс</h1>
+                        <h1 class="fw-bolder mb-3">Бек Офіс</h1>
                         <p class="lead fw-normal text-muted mb-4">
                             Керувати закладом ще ніколи не було так просто зі
                             зручним бек-офісом у браузері вашого комп’ютера. Маючи доступ до детальної статистики, ви
