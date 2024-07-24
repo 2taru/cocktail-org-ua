@@ -46,6 +46,7 @@
                             </ul>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Контакти</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/about">Про нас</a></li>
                         <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
                     </ul>
                 </div>

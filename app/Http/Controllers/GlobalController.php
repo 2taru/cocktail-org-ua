@@ -20,4 +20,14 @@ class GlobalController extends Controller
     {
         return view('contact');
     }
+
+    public function showPricing()
+    {
+        return view('pricing');
+    }
+
+    public function showAbout()
+    {
+        return view('about');
+    }
 }

@@ -19,6 +19,8 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [GlobalController::class, "showHomepage"]);
 Route::get('/faq', [GlobalController::class, "showFAQ"]);
 Route::get('/contact', [GlobalController::class, "showContact"]);
+Route::get('/pricing', [GlobalController::class, "showPricing"]);
+Route::get('/about', [GlobalController::class, "showAbout"]);
 
 // Services routes
 Route::get('/service/backend', [ServicesController::class, "showBackendService"]);
