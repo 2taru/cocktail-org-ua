@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="col-xl-5 col-xxl-4 d-none d-xl-block text-center">
-                    <img class="img-fluid rounded-3 my-5" src="/logo.png" alt="..." />
+                    <img class="img-fluid rounded-3 my-5" src="/logo.png" alt="Logo" title="logo" />
                 </div>
             </div>
         </div>

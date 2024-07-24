@@ -43,16 +43,20 @@
                     <div id="carouselExample" class="carousel slide">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="/images/pos01.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/pos01.jpg" class="d-block w-100" alt="Фото програми 1"
+                                title="cocktail-front-office-photo-1">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/pos02.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/pos02.jpg" class="d-block w-100" alt="Фото програми 2"
+                                title="cocktail-front-office-photo-2">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/pos03.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/pos03.jpg" class="d-block w-100" alt="Фото програми 3"
+                                title="cocktail-front-office-photo-3">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/pos04.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/pos04.jpg" class="d-block w-100" alt="Фото програми 4"
+                                title="cocktail-front-office-photo-4">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
@@ -68,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <button type="button" class="btn btn-outline-primary w-150 mt-5">Спробувати</button>
+            <button type="button" class="btn btn-primary w-150 mt-5">Спробувати</button>
         </div>
     </section>
 </x-layout>

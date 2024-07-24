@@ -1,4 +1,4 @@
-<x-layout doctitle="Бек офіс | Управління процесами, облік, аналітика" 
+<x-layout doctitle="Бек офіс | Управління процесами, облік, аналітика"
     description="Бек офіс для ресторанів, барів та кафе: управління процесами, 
     облік, аналітика, детальна статистика, планування закупівель, оптимізація меню та складу, 
     програма лояльності, контроль роботи працівників.">
@@ -37,19 +37,24 @@
                     <div id="carouselExample" class="carousel slide">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="/images/adm01.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/adm01.jpg" class="d-block w-100" alt="Фото програми 1"
+                                    title="cocktail-back-office-photo-1">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/adm02.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/adm02.jpg" class="d-block w-100" alt="Фото програми 1"
+                                    title="cocktail-back-office-photo-2">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/adm03.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/adm03.jpg" class="d-block w-100" alt="Фото програми 1"
+                                    title="cocktail-back-office-photo-3">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/adm04.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/adm04.jpg" class="d-block w-100" alt="Фото програми 1"
+                                    title="cocktail-back-office-photo-4">
                             </div>
                             <div class="carousel-item">
-                                <img src="/images/adm05.jpg" class="d-block w-100" alt="...">
+                                <img src="/images/adm05.jpg" class="d-block w-100" alt="Фото програми 1"
+                                    title="cocktail-back-office-photo-5">
                             </div>
                         </div>
                         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample"
@@ -65,7 +70,7 @@
                     </div>
                 </div>
             </div>
-            <button type="button" class="btn btn-outline-primary w-150 mt-5">Спробувати</button>
+            <button type="button" class="btn btn-primary w-150 mt-5">Спробувати</button>
         </div>
     </section>
 </x-layout>
