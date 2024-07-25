@@ -25,15 +25,17 @@
 <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(196,219,220);
+                    background: linear-gradient(90deg, rgba(196,219,220,1) 0%, rgba(187,228,230,1) 50%, rgba(196,219,220,1) 100%);">
             <div class="container px-5">
-                <a class="navbar-brand" href="/"><img src="/label.svg" alt="label" title="label"></a>
+                <a class="navbar-brand" href="/"><img src="/logo.svg" alt="label" title="label"
+                        style="height: 50px;"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
                         class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0" style="font-size: 18px !important;">
                         <li class="nav-item"><a class="nav-link" href="/">Головна</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button"
