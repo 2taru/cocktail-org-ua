@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 
 // Global routes
 Route::get('/', [GlobalController::class, "showHomepage"]);
-Route::get('/faq', [GlobalController::class, "showFAQ"]);
+Route::get('/instruction', [GlobalController::class, "showInstruction"]);
 Route::get('/contact', [GlobalController::class, "showContact"]);
 Route::get('/pricing', [GlobalController::class, "showPricing"]);
 Route::get('/about', [GlobalController::class, "showAbout"]);

@@ -37,7 +37,7 @@
                         <li class="nav-item"><a class="nav-link" href="/">Головна</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button"
-                                data-bs-toggle="dropdown" aria-expanded="false">Послуги</a>
+                                data-bs-toggle="dropdown" aria-expanded="false">Функціонал</a>
                             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
                                 <li><a class="dropdown-item" href="/service/backend">Бек Офіс</a></li>
                                 <li><a class="dropdown-item" href="/service/frontend">Фронт Офіс</a></li>
@@ -47,7 +47,7 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Контакти</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about">Про нас</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/faq">FAQ</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/instruction">Інструкція</a></li>
                     </ul>
                 </div>
             </div>

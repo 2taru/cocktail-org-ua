@@ -11,9 +11,9 @@ class GlobalController extends Controller
         return view('homepage');
     }
 
-    public function showFAQ()
+    public function showInstruction()
     {
-        return view('faq');
+        return view('instruction');
     }
 
     public function showContact()
