@@ -25,8 +25,7 @@
 <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(196,219,220);
-                    background: linear-gradient(90deg, rgba(196,219,220,1) 0%, rgba(187,228,230,1) 50%, rgba(196,219,220,1) 100%);">
+        <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(190, 243, 246);">
             <div class="container px-5">
                 <a class="navbar-brand" href="/"><img src="/logo.svg" alt="label" title="label"
                         style="height: 50px;"></a>
@@ -78,6 +77,28 @@
     </script>
     <!-- Core theme JS-->
     <script src="js/scripts.js"></script>
+    <style>
+        body {
+            background: linear-gradient(-45deg, #b6f2f5, #badedf, #fbe5fb);
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+            height: 100vh;
+        }
+
+        @keyframes gradient {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+    </style>
 </body>
 
 </html>

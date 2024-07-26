@@ -14,8 +14,7 @@
                             <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Просте впровадження</li>
                             <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Широкий функціонал</li>
                             <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Стабільна робота</li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Гнучкість та адаптивність
-                            </li>
+                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Гнучкість та адаптивність</li>
                             <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Хмарне сховище</li>
                             <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Доступна ціна</li>
                         </ul>

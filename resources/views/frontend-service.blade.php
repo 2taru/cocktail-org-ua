@@ -3,11 +3,11 @@
     швидке обслуговування гостей, просте управління замовленнями та оплатами, 
     підтримка програмних РРО, адаптивний інтерфейс для ефективної роботи персоналу.">
     <!-- Header-->
-    <header class="py-5">
+    <header class="py-5 bg-dark">
         <div class="container px-5">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
-                    <div class="text-center my-5">
+                    <div class="text-center my-5 text-light">
                         <h1 class="fw-bolder mb-3">Фронт офіс</h1>
                         {{-- <p class="lead fw-normal text-muted mb-4">
                             Керувати закладом ще ніколи не було так просто зі
