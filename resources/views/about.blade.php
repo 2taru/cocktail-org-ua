@@ -3,8 +3,8 @@
     для ресторанів, барів та кафе. Ми пропонуємо інноваційні рішення для автоматизації закладів 
     будь-якого розміру та формату. Наші цінності, місія та команда.">
     <!-- Header-->
-    <header class="py-5">
-        <div class="container px-5">
+    <header class="py-2">
+        <div class="container px-4">
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xxl-6">
                     <div class="text-center my-5">
@@ -21,7 +21,7 @@
         </div>
     </header>
     <!-- About section one-->
-    <section class="py-5 bg-light rounded-5 mx-3" id="scroll-target" style="--bs-bg-opacity: .3;">
+    <section class="py-2 bg-light rounded-5 mx-3 shadow" id="scroll-target" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
@@ -48,7 +48,7 @@
         </div>
     </section>
     <!-- About section two-->
-    <section class="py-5  rounded-5 mx-3">
+    <section class="py-2 rounded-5 mx-3">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
@@ -67,7 +67,7 @@
         </div>
     </section>
     <!-- Team members section-->
-    <section class="py-5 bg-light rounded-5 mx-3" style="--bs-bg-opacity: .3;">
+    <section class="py-2 bg-light rounded-5 mx-3 shadow mb-3" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="text-center">
                 <h2 class="fw-bolder">Our team</h2>

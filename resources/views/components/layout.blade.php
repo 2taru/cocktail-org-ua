@@ -25,7 +25,7 @@
 <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-light" style="background: rgb(190, 243, 246);">
+        <nav class="navbar navbar-expand-lg navbar-light shadow-lg" style="background: rgb(243, 196, 255); --bs-bg-opacity: .8;">
             <div class="container px-5">
                 <a class="navbar-brand" href="/"><img src="/logo.svg" alt="label" title="label"
                         style="height: 50px;"></a>
@@ -59,7 +59,7 @@
 
     </main>
     <!-- Footer-->
-    <footer class="bg-dark py-4 mt-auto">
+    <footer class="bg-dark py-4 mt-auto" style="--bs-bg-opacity: .8;">
         <div class="container px-5">
             <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                 <div class="col-auto">
@@ -79,7 +79,7 @@
     <script src="js/scripts.js"></script>
     <style>
         body {
-            background: linear-gradient(-45deg, #b6f2f5, #badedf, #fbe5fb);
+            background: linear-gradient(-45deg, #f6eba1, #a2f5d5, #a1fff6, #ffbbff, #ff89ca);
             background-size: 400% 400%;
             animation: gradient 15s ease infinite;
             height: 100vh;
