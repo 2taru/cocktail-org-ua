@@ -3,11 +3,11 @@
     Просте впровадження, широкий функціонал, стабільна робота, хмарне сховище та доступна ціна. 
     Включає бек-офіс, фронт-офіс, управління меню, складський облік та підтримку програмних РРО.">
     <!-- Header -->
-    <header class="bg-dark py-5" style="--bs-bg-opacity: .7;">
+    <header class="bg-dark py-4 shadow" style="--bs-bg-opacity: .7;">
         <div class="container px-5">
             <div class="row gx-5 align-items-center justify-content-center">
-                <div class="col-lg-8 col-xl-7 col-xxl-8">
-                    <div class="my-5 text-center text-xl-start">
+                <div class="col-lg-8 col-xl-6 col-xxl-7">
+                    <div class="my-2 text-center text-xl-start">
                         <h1 class="display-5 fw-bolder text-white mb-2">Програмне забезпечення для ресторанів, барів та
                             кафе</h1>
                         <p class="lead fw-normal text-light mt-5">Відкрийте нові горизонти успішного управління вашим
@@ -17,8 +17,8 @@
                             прибуток.</p>
                     </div>
                 </div>
-                <div class="col-xl-5 col-xxl-4 d-none d-xl-block text-center">
-                    <img class="img-fluid rounded-3 my-5" src="/logo.png" alt="Logo" title="logo" />
+                <div class="col-xl-6 col-xxl-5 d-none d-xl-block text-center">
+                    <img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x500/343a40/6c757d" alt="Logo" title="logo" />
                 </div>
             </div>
         </div>
@@ -56,13 +56,13 @@
     <section class="py-2 bg-light rounded-5 m-3 shadow mx-3" id="features" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5">
-                <div class="col-lg-4 mb-5 mb-lg-0">
-                    <h2 class="fw-bolder mb-0 h3">Приєднуйтеся до спільноти успішних барів та ресторанів, які вже
-                        використовують програмне забезпечення від центру бізнес обслуговування SKY TEK.
+                <div class="col-lg-4">
+                    <h2 class="h3">Приєднуйтеся до спільноти успішних барів та ресторанів, які вже
+                        використовують програмне забезпечення від центру бізнес обслуговування <b>SKY TEK</b>.
                     </h2>
                 </div>
                 <div class="col-lg-8">
-                    <div class="row gx-5 row-cols-1 row-cols-md-2">
+                    <div class="row gx-5 row-cols-1 row-cols-md-2 ms-xl-2 mt-4 mt-xl-0">    
                         <div class="col mb-5 h-100">
                             <div class="text-dark rounded-3 mb-3">
                                 <i class="bi bi-back"></i>

@@ -9,12 +9,12 @@
                 <div class="col-lg-8 col-xxl-6">
                     <div class="text-center my-5">
                         <h1 class="fw-bolder mb-3">Комплексні рішення для вашого успішного бізнесу від SKY TEK</h1>
-                        <p class="lead fw-normal text-muted mb-4">Вітаємо! Наша компанія SKY TEK була заснована у 2015
+                        <p class="lead fw-normal text-dark mb-4">Вітаємо! Наша компанія SKY TEK була заснована у 2015
                             році з метою спрощення ведення підприємницької діяльності шляхом надання всіх послуг для
                             ведення бізнесу у одному місці.
                             Ми прагнемо зробити управління вашим бізнесом легким та ефективним.
                         </p>
-                        <a class="btn btn-outline-secondary btn-lg" href="#scroll-target">Більше про нас</a>
+                        <a class="btn btn-outline-dark btn-lg" href="#scroll-target">Більше про нас</a>
                     </div>
                 </div>
             </div>
@@ -25,10 +25,10 @@
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                        src="/images/office-outside.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Тепер ЦЕНТР БІЗНЕС ОБСЛУГОВУВАННЯ SKY TEK це:</h2>
-                    <ul class="list-unstyled mt-4 text-muted" style="font-size: 19px">
+                    <ul class="list-unstyled mt-4 text-dark" style="font-size: 19px">
                         <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> 5 офісів у Закарпатській
                             області</li>
                         <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> 227 послуг для успішного
@@ -52,14 +52,14 @@
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                        src="/images/office-inside.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Індивідуальний підхід та комплексні рішення</h2>
-                    <p class="lead fw-normal text-muted mb-0 mt-3">Ми підходимо до кожного клієнта індивідуально, враховуючи
+                    <p class="lead fw-normal text-dark mb-0 mt-3">Ми підходимо до кожного клієнта індивідуально, враховуючи
                         всі його потреби та побажання, і водночас пропонуємо комплексні рішення, які включають все
                         необхідне для успішного ведення бізнесу.
                     </p>
-                    <p class="lead fw-normal text-muted mb-0 mt-3">
+                    <p class="lead fw-normal text-dark mb-0 mt-3">
                         Ми завжди раді новим співпрацям та готові допомогти вам у досягненні ваших бізнес-цілей!
                     </p>
                 </div>
@@ -71,7 +71,7 @@
         <div class="container px-5 my-5">
             <div class="text-center">
                 <h2 class="fw-bolder">Our team</h2>
-                <p class="lead fw-normal text-muted mb-5">Dedicated to quality and your success</p>
+                <p class="lead fw-normal text-dark mb-5">Dedicated to quality and your success</p>
             </div>
             <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
                 <div class="col mb-5 mb-5 mb-xl-0">
