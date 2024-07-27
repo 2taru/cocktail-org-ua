@@ -66,7 +66,12 @@
                     <div class="small m-0 text-white">Copyright &copy; SkyTek {{ date('Y') }}</div>
                 </div>
                 <div class="col-auto">
-                    <a class="link-light small" href="/contact">Контакти</a>
+                    <a class="text-white text-decoration-none mx-1"
+                        href="https://www.instagram.com/skytek.svl?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
+                        <i class="bi bi-instagram"></i></a>
+                    <a class="text-white text-decoration-none mx-1" href="https://www.facebook.com/cboskytek">
+                        <i class="bi bi-facebook"></i></a>
+                    <a class="link-light small mx-1" href="/contact">Контакти</a>
                 </div>
             </div>
         </div>
