@@ -9,7 +9,7 @@
                 <h1 class="fw-bolder">Контактна інформація</h1>
             </div>
             <div class="container">
-                <div class="row gy-3 gy-md-4 gy-lg-0 align-items-md-center">
+                <div class="row gy-3 gy-md-4 gy-lg-0 align-items-md-start">
 
                     <!-- Info section -->
                     <div class="col-12 col-lg-6 mt-5">
@@ -20,7 +20,7 @@
                                         <i class="bi bi-geo h2"></i>
                                     </div>
                                     <div>
-                                        <h4 class="mb-2">Офіс</h4>
+                                        <h3 class="mb-2 h4">Офіс</h3>
                                         <p class="mb-2">Завітайте в наші офіси для консультації.</p>
                                         <hr class="w-50 mb-3 border-dark-subtle">
                                         <address class="m-0 text-secondary"><b>м. Свалява</b> вул. Головна 35/1
@@ -42,7 +42,7 @@
                                                 <i class="bi bi-telephone-outbound h2"></i>
                                             </div>
                                             <div>
-                                                <h4 class="mb-2">Телефон</h4>
+                                                <h3 class="mb-2 h4">Телефон</h3>
                                                 <p class="mb-2">Зателефонуйте та поговоріть з нами безпосередньо.</p>
                                                 <hr class="w-75 mb-3 border-dark-subtle">
                                                 <p class="mb-0">
@@ -61,7 +61,7 @@
                                                 <i class="bi bi-people h2"></i>
                                             </div>
                                             <div>
-                                                <h4 class="mb-2">Соціальні мережі</h4>
+                                                <h3 class="mb-2 h4">Соціальні мережі</h3>
                                                 <p class="mb-2">Підпишіться, щоб бути в курсі останніх новин.</p>
                                                 <hr class="w-75 mb-3 border-dark-subtle">
                                                 <p class="mb-0">
@@ -79,16 +79,10 @@
                                 </div>
                                 <div>
                                     <div class="mb-3 text-primary">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"
-                                            fill="currentColor" class="bi bi-alarm" viewBox="0 0 16 16">
-                                            <path
-                                                d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z" />
-                                            <path
-                                                d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z" />
-                                        </svg>
+                                        <i class="bi bi-alarm h2"></i>
                                     </div>
                                     <div>
-                                        <h4 class="mb-2">Години роботи</h4>
+                                        <h3 class="mb-2 h4">Години роботи</h3>
                                         <p class="mb-2">Ознайомтеся з графіком роботи нашої компанії.</p>
                                         <hr class="w-50 mb-3 border-dark-subtle">
                                         <div class="d-flex mb-1">
@@ -106,13 +100,14 @@
                     </div>
 
                     <!-- Contact us form -->
-                    <div class="col-12 col-lg-6 mt-5 mt-xl-0">
+                    <div class="col-12 col-lg-6 mt-5">
                         <div class="overflow-hidden">
-                            <div class="text-center">
-                                <h3 class="fw-bolder">Задайте своє питання</h3>
+                            <div class="mb-3 text-primary">
+                                <i class="bi bi-question-circle h2"></i>
                             </div>
+                            <h2 class="h4 mb-3">Задайте своє питання</h2>
                             <form action="#!">
-                                <div class="row gy-3 gy-xl-4 p-3 p-xl-4">
+                                <div class="row gy-3 gy-xl-4">
                                     <div class="col-12">
                                         <label for="fullname" class="form-label">Full Name <span
                                                 class="text-danger">*</span></label>
@@ -157,7 +152,7 @@
                                     <div class="col-12">
                                         <label for="message" class="form-label">Message <span
                                                 class="text-danger">*</span></label>
-                                        <textarea class="form-control" id="message" name="message" rows="5" required></textarea>
+                                        <textarea class="form-control" id="message" name="message" rows="6" required></textarea>
                                     </div>
                                     <div class="col-12">
                                         <div class="d-grid">
