@@ -102,12 +102,12 @@
                     <!-- Contact us form -->
                     <div class="col-12 col-lg-6 mt-5">
                         <div class="overflow-hidden">
-                            <div class="mb-3 text-primary">
+                            <div class="mb-3 mx-xl-3 mx-lg-3 text-primary">
                                 <i class="bi bi-question-circle h2"></i>
                             </div>
-                            <h2 class="h4 mb-3">Задайте своє питання</h2>
+                            <h2 class="h4 mb-3 mx-xl-3 mx-lg-3">Задайте своє питання</h2>
                             <form action="#!">
-                                <div class="row gy-3 gy-xl-4">
+                                <div class="row gy-3 gy-xl-4 mx-xl-1 mx-lg-1">
                                     <div class="col-12">
                                         <label for="fullname" class="form-label">Full Name <span
                                                 class="text-danger">*</span></label>
