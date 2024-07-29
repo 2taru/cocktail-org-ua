@@ -21,17 +21,17 @@
                                     </div>
                                     <div>
                                         <h4 class="mb-2">Офіс</h4>
-                                        <p class="mb-2">Будь ласка, завітайте до нас, щоб обговорити.</p>
+                                        <p class="mb-2">Завітайте в наші офіси для консультації.</p>
                                         <hr class="w-50 mb-3 border-dark-subtle">
-                                        <address class="m-0 text-secondary">📍<b>м. Свалява</b> вул. Головна 35/1
+                                        <address class="m-0 text-secondary"><b>м. Свалява</b> вул. Головна 35/1
                                         </address>
-                                        <address class="m-0 text-secondary">📍<b>м. Мукачево</b> вул. Августина Штефана
+                                        <address class="m-0 text-secondary"><b>м. Мукачево</b> вул. Августина Штефана
                                             25, Офіс 9, 2 поверх</address>
-                                        <address class="m-0 text-secondary">📍<b>м. Берегове</b> вул. Богдана
+                                        <address class="m-0 text-secondary"><b>м. Берегове</b> вул. Богдана
                                             Хмельницького, 14</address>
-                                        <address class="m-0 text-secondary">📍<b>м. Іршава</b> вул. Поштова, 4/1
+                                        <address class="m-0 text-secondary"><b>м. Іршава</b> вул. Поштова, 4/1
                                         </address>
-                                        <address class="m-0 text-secondary">📍<b>с. Кушниця</b> вул. Центральна, 35
+                                        <address class="m-0 text-secondary"><b>с. Кушниця</b> вул. Центральна, 35
                                         </address>
                                     </div>
                                 </div>
@@ -47,10 +47,10 @@
                                                 <hr class="w-75 mb-3 border-dark-subtle">
                                                 <p class="mb-0">
                                                     <a class="link-secondary text-decoration-none"
-                                                        href="tel:+380509090109">📞 +38 050 90 90 109</a>
+                                                        href="tel:+380509090109">+38 050 90 90 109</a>
                                                     <br />
                                                     <a class="link-secondary text-decoration-none"
-                                                        href="tel:+380679099109">📞 +38 067 90 99 109</a>
+                                                        href="tel:+380679099109">+38 067 90 99 109</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -109,7 +109,7 @@
                     <div class="col-12 col-lg-6 mt-5 mt-xl-0">
                         <div class="overflow-hidden">
                             <div class="text-center">
-                                <h3 class="fw-bolder">Задай своє питання</h3>
+                                <h3 class="fw-bolder">Задайте своє питання</h3>
                             </div>
                             <form action="#!">
                                 <div class="row gy-3 gy-xl-4 p-3 p-xl-4">
