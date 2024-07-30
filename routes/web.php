@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EmailController;
 use App\Http\Controllers\GlobalController;
 use App\Http\Controllers\ServicesController;
 use Illuminate\Support\Facades\Route;
@@ -25,3 +26,6 @@ Route::get('/about', [GlobalController::class, "showAbout"]);
 // Services routes
 Route::get('/service/backend', [ServicesController::class, "showBackendService"]);
 Route::get('/service/frontend', [ServicesController::class, "showFrontendService"]);
+
+// Mail routes
+Route::post('/contact/send-email', [EmailController::class, "sendEmail"]);
