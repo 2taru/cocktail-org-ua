@@ -110,7 +110,7 @@
                                 @csrf
                                 <div class="row gy-3 gy-xl-4 mx-xl-1 mx-lg-1">
                                     <div class="col-12">
-                                        <label for="fullname" class="form-label">Ім'я <span
+                                        <label for="fullname" class="form-label">Повне Ім'я <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" class="form-control" id="fullname" name="fullname"
                                             value="{{ old('fullname') }}" required>
