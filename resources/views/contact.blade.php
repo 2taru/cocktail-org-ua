@@ -16,7 +16,7 @@
                         <div class="row justify-content-xl-center">
                             <div class="col-12 col-xl-11">
                                 <div class="mb-4 mb-md-5">
-                                    <div class="mb-3 text-primary">
+                                    <div class="mb-3 text-secondary">
                                         <i class="bi bi-geo h2"></i>
                                     </div>
                                     <div>
@@ -38,7 +38,7 @@
                                 <div class="row mb-sm-4 mb-md-5">
                                     <div class="col-12 col-sm-6">
                                         <div class="mb-4 mb-sm-0">
-                                            <div class="mb-3 text-primary">
+                                            <div class="mb-3 text-secondary">
                                                 <i class="bi bi-telephone-outbound h2"></i>
                                             </div>
                                             <div>
@@ -57,7 +57,7 @@
                                     </div>
                                     <div class="col-12 col-sm-6">
                                         <div class="mb-4 mb-sm-0">
-                                            <div class="mb-3 text-primary">
+                                            <div class="mb-3 text-secondary">
                                                 <i class="bi bi-people h2"></i>
                                             </div>
                                             <div>
@@ -78,7 +78,7 @@
                                     </div>
                                 </div>
                                 <div>
-                                    <div class="mb-3 text-primary">
+                                    <div class="mb-3 text-secondary">
                                         <i class="bi bi-alarm h2"></i>
                                     </div>
                                     <div>
@@ -102,7 +102,7 @@
                     <!-- Contact us form -->
                     <div class="col-12 col-lg-6 mt-5">
                         <div class="overflow-hidden">
-                            <div class="mb-3 mx-xl-3 mx-lg-3 text-primary">
+                            <div class="mb-3 mx-xl-3 mx-lg-3 text-secondary">
                                 <i class="bi bi-question-circle h2"></i>
                             </div>
                             <h2 class="h4 mb-3 mx-xl-3 mx-lg-3">Задайте своє питання</h2>
@@ -113,7 +113,7 @@
                                         <label for="fullname" class="form-label">Повне Ім'я <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" class="form-control" id="fullname" name="fullname"
-                                            value="{{ old('fullname') }}" required>
+                                            value="{{ old('fullname') }}">
                                         @error('fullname')
                                             <p class="m-0 mt-2 small alert alert-danger shadow-sm">{{ $message }}</p>
                                         @enderror
@@ -125,8 +125,8 @@
                                             <span class="input-group-text">
                                                 <i class="bi bi-envelope"></i>
                                             </span>
-                                            <input type="email" class="form-control" id="email" name="email"
-                                                value="{{ old('email') }}" required>
+                                            <input type="text" class="form-control" id="email" name="email"
+                                                value="{{ old('email') }}">
                                             @error('email')
                                                 <p class="m-0 mt-2 small alert alert-danger shadow-sm">{{ $message }}
                                                 </p>
@@ -151,7 +151,7 @@
                                         <label for="subject" class="form-label">Тема <span
                                                 class="text-danger">*</span></label>
                                         <input type="text" class="form-control" id="subject" name="subject"
-                                            value="{{ old('subject') }}" required>
+                                            value="{{ old('subject') }}">
                                         @error('subject')
                                             <p class="m-0 mt-2 small alert alert-danger shadow-sm">{{ $message }}</p>
                                         @enderror
@@ -159,14 +159,14 @@
                                     <div class="col-12">
                                         <label for="message" class="form-label">Повідомлення <span
                                                 class="text-danger">*</span></label>
-                                        <textarea class="form-control" id="message" name="message" rows="6" required></textarea>
+                                        <textarea class="form-control" id="message" name="message" rows="6"></textarea>
                                         @error('message')
                                             <p class="m-0 mt-2 small alert alert-danger shadow-sm">{{ $message }}</p>
                                         @enderror
                                     </div>
                                     <div class="col-12">
                                         <div class="d-grid">
-                                            <button class="btn btn-primary btn-lg" type="submit">Надіслати</button>
+                                            <button class="btn btn-secondary btn-lg" type="submit">Надіслати</button>
                                         </div>
                                     </div>
                                 </div>

@@ -50,10 +50,10 @@
                                 <li><a class="dropdown-item" href="#">Гість</a></li>
                                 <li><a class="dropdown-item" href="#">ПРРО</a></li>
                             </ul>
+                        <li class="nav-item"><a class="nav-link" href="/instruction">Інструкція</a></li>
                         </li>
                         <li class="nav-item"><a class="nav-link" href="/contact">Контакти</a></li>
                         <li class="nav-item"><a class="nav-link" href="/about">Про нас</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/instruction">Інструкція</a></li>
                     </ul>
                 </div>
             </div>
@@ -78,11 +78,20 @@
 
     </main>
     <!-- Footer-->
-    <footer class="bg-dark py-4 mt-auto" style="--bs-bg-opacity: .8;">
+    <footer class="bg-dark py-4 mt-auto pb-3" style="--bs-bg-opacity: .8;">
         <div class="container px-5">
             <div class="row align-items-center justify-content-between flex-column flex-sm-row">
                 <div class="col-auto">
                     <div class="small m-0 text-white">Copyright &copy; SkyTek {{ date('Y') }}</div>
+                </div>
+                <div class="col-auto">
+                    <p class="small m-0">
+                        <a class="text-white text-decoration-none"
+                            href="tel:+380509090109">+38 050 90 90 109</a>
+                        <br />
+                        <a class="text-white text-decoration-none"
+                            href="tel:+380679099109">+38 067 90 99 109</a>
+                    </p>
                 </div>
                 <div class="col-auto">
                     <a class="text-white text-decoration-none mx-1"
@@ -110,7 +119,7 @@
         }
 
         body {
-            background: linear-gradient(-45deg, #e6e0b9, #c3e8da, #bde4e0, #e0c8e0, #e4bfd4);
+            background: linear-gradient(-45deg, #edcd9a, #e6e0b9, #c3e8e1, #d7e4c7, #ead3ea, #edd1e1);
             background-size: 400% 400%;
             animation: gradient 15s ease infinite;
             height: 100vh;
