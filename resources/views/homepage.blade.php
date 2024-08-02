@@ -85,7 +85,7 @@
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-people-fill"></i>
                             </div>
-                            <a href="#" class="text-decoration-none">
+                            <a href="/service/guest" class="text-decoration-none">
                                 <h2 class="h5 text-dark">Гість</h2>
                             </a>
                             <p class="mb-0">Ваші відвідувачі зможуть самостійно робити замовлення</p>
@@ -94,7 +94,7 @@
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-display"></i>
                             </div>
-                            <a href="#" class="text-decoration-none">
+                            <a href="/service/prro" class="text-decoration-none">
                                 <h2 class="h5 text-dark">ПРРО</h2>
                             </a>
                             <p class="mb-0">Підтримується одночасно декілька програмних РРО</p>

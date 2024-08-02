@@ -60,7 +60,7 @@
                         </button>
                     </div>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-4 mt-lg-0">
                     <ul class="nav nav-underline mb-3" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
                             <a class="nav-link active text-dark" id="online-menu-tab" data-bs-toggle="tab"
@@ -69,7 +69,7 @@
                         </li>
                         <li class="nav-item" role="presentation">
                             <a class="nav-link text-dark" id="order-tab" data-bs-toggle="tab" href="#order"
-                                role="tab" aria-controls="order" aria-selected="false">Вибір та зміна замовлення</a>
+                                role="tab" aria-controls="order" aria-selected="false">Вибір/зміна замовлення</a>
                         </li>
                     </ul>
                     <div class="tab-content" id="myTabContent">
@@ -101,7 +101,7 @@
                         страви до приходу в заклад.
                     </p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-lg-0 mt-sm-5 mt-5">
                     <h2 class="fw-bolder">Персоналізація замовлення</h2>
                     <p class="lead fw-normal text-dark mb-0 mt-3">Опція залишати побажання або коментарі до замовлень,
                         враховуючи алергії або інші переваги.

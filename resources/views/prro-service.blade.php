@@ -42,7 +42,7 @@
                         податковими органами для подання звітності.
                     </p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-lg-0 mt-sm-5 mt-5">
                     <h2 class="fw-bolder">Налаштування фіскалізації</h2>
                     <p class="lead fw-normal text-dark mb-0 mt-3">Налаштування фіскалізації: для товару, підрозділу чи
                         позиції.
@@ -60,7 +60,7 @@
                     <p class="lead fw-normal text-dark mb-0 mt-3">Робота з декількома ФОПами в одній програмі Cocktail.
                     </p>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-6 mt-lg-0 mt-sm-5 mt-5">
                     <h2 class="fw-bolder">Автоматичний контроль акцизних марок</h2>
                     <p class="lead fw-normal text-dark mb-0 mt-3">Розроблений коефіцієнт списання напою відповідно до
                         номінальної кількості у пляшці.
