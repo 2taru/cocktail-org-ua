@@ -26,6 +26,7 @@ Route::get('/about', [GlobalController::class, "showAbout"]);
 // Services routes
 Route::get('/service/backend', [ServicesController::class, "showBackendService"]);
 Route::get('/service/frontend', [ServicesController::class, "showFrontendService"]);
+Route::get('/service/guest', [ServicesController::class, "showGuestService"]);
 
 // Mail routes
 Route::post('/contact/send-email', [EmailController::class, "sendEmail"]);
