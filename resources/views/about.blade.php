@@ -25,7 +25,7 @@
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
                 <div class="col-lg-6"><img class="img-fluid rounded-4 mb-5 mb-lg-0"
-                        src="/images/office-outside.jpg" alt="..." /></div>
+                        src="/images/office-logo.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Тепер ЦЕНТР БІЗНЕС ОБСЛУГОВУВАННЯ SKY TEK це:</h2>
                     <ul class="list-unstyled mt-4 text-dark" style="font-size: 19px">
@@ -85,7 +85,7 @@
                 <div class="col mb-5">
                     <div class="text-center">
                         <img class="img-fluid rounded-4 mb-4"
-                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                            src="/images/office-mukachevo.jpg" alt="..." />
                         <h5 class="fw-bolder">Мукачево</h5>
                         <div class="fst-italic text-muted">м. Мукачево вул. Августина Штефана 25, Офіс 9, 2 поверх</div>
                     </div>
@@ -93,7 +93,7 @@
                 <div class="col mb-5">
                     <div class="text-center">
                         <img class="img-fluid rounded-4 mb-4"
-                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                            src="https://dummyimage.com/750x750/ced4da/6c757d" alt="..." />
                         <h5 class="fw-bolder">Берегове</h5>
                         <div class="fst-italic text-muted">м. Берегове вул. Богдана Хмельницького, 14</div>
                     </div>
@@ -101,7 +101,7 @@
                 <div class="col mb-5">
                     <div class="text-center">
                         <img class="img-fluid rounded-4 mb-4"
-                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                            src="/images/office-irshava.jpg" alt="..." />
                         <h5 class="fw-bolder">Іршава</h5>
                         <div class="fst-italic text-muted">м. Іршава вул. Поштова, 4/1</div>
                     </div>
@@ -109,7 +109,7 @@
                 <div class="col">
                     <div class="text-center">
                         <img class="img-fluid rounded-4 mb-4"
-                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                            src="https://dummyimage.com/750x750/ced4da/6c757d" alt="..." />
                         <h5 class="fw-bolder">Кушниця</h5>
                         <div class="fst-italic text-muted">с. Кушниця вул. Центральна, 35</div>
                     </div>
