@@ -24,7 +24,7 @@
     <section class="py-2 bg-light rounded-5 mx-3 shadow" id="scroll-target" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
-                <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
+                <div class="col-lg-6"><img class="img-fluid rounded-4 mb-5 mb-lg-0"
                         src="/images/office-outside.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Тепер ЦЕНТР БІЗНЕС ОБСЛУГОВУВАННЯ SKY TEK це:</h2>
@@ -51,7 +51,7 @@
     <section class="py-2 rounded-5 mx-3">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
+                <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded-4 mb-5 mb-lg-0"
                         src="/images/office-inside.jpg" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Індивідуальний підхід та комплексні рішення</h2>
@@ -66,44 +66,52 @@
             </div>
         </div>
     </section>
-    <!-- Team members section-->
+    <!-- Offices section-->
     <section class="py-2 bg-light rounded-5 mx-3 shadow mb-3" style="--bs-bg-opacity: .4;">
-        <div class="container px-5 my-5">
+        <div class="container px-5 mt-5">
             <div class="text-center">
-                <h2 class="fw-bolder">Our team</h2>
-                <p class="lead fw-normal text-dark mb-5">Dedicated to quality and your success</p>
+                <h2 class="fw-bolder">Наші офіси</h2>
+                <p class="lead fw-normal text-dark mb-5">Завітайте в один з наших 5 офісів у Закарпатській області</p>
             </div>
-            <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
-                <div class="col mb-5 mb-5 mb-xl-0">
+            <div class="row gx-5 row-cols-1 row-cols-sm-1 row-cols-lg-2 row-cols-xxl-3 justify-content-center">
+                <div class="col mb-5">
                     <div class="text-center">
-                        <img class="img-fluid rounded-circle mb-4 px-4"
-                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                        <h5 class="fw-bolder">Ibbie Eckart</h5>
-                        <div class="fst-italic text-muted">Founder &amp; CEO</div>
-                    </div>
-                </div>
-                <div class="col mb-5 mb-5 mb-xl-0">
-                    <div class="text-center">
-                        <img class="img-fluid rounded-circle mb-4 px-4"
-                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                        <h5 class="fw-bolder">Arden Vasek</h5>
-                        <div class="fst-italic text-muted">CFO</div>
-                    </div>
-                </div>
-                <div class="col mb-5 mb-5 mb-sm-0">
-                    <div class="text-center">
-                        <img class="img-fluid rounded-circle mb-4 px-4"
-                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                        <h5 class="fw-bolder">Toribio Nerthus</h5>
-                        <div class="fst-italic text-muted">Operations Manager</div>
+                        <img class="img-fluid rounded-4 mb-4"
+                            src="/images/office-svalyava.jpg" alt="..." />
+                        <h5 class="fw-bolder">Свалява</h5>
+                        <div class="fst-italic text-muted">м. Свалява вул. Головна 35/1</div>
                     </div>
                 </div>
                 <div class="col mb-5">
                     <div class="text-center">
-                        <img class="img-fluid rounded-circle mb-4 px-4"
-                            src="https://dummyimage.com/150x150/ced4da/6c757d" alt="..." />
-                        <h5 class="fw-bolder">Malvina Cilla</h5>
-                        <div class="fst-italic text-muted">CTO</div>
+                        <img class="img-fluid rounded-4 mb-4"
+                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Мукачево</h5>
+                        <div class="fst-italic text-muted">м. Мукачево вул. Августина Штефана 25, Офіс 9, 2 поверх</div>
+                    </div>
+                </div>
+                <div class="col mb-5">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-4 mb-4"
+                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Берегове</h5>
+                        <div class="fst-italic text-muted">м. Берегове вул. Богдана Хмельницького, 14</div>
+                    </div>
+                </div>
+                <div class="col mb-5">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-4 mb-4"
+                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Іршава</h5>
+                        <div class="fst-italic text-muted">м. Іршава вул. Поштова, 4/1</div>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="text-center">
+                        <img class="img-fluid rounded-4 mb-4"
+                            src="https://dummyimage.com/750x560/ced4da/6c757d" alt="..." />
+                        <h5 class="fw-bolder">Кушниця</h5>
+                        <div class="fst-italic text-muted">с. Кушниця вул. Центральна, 35</div>
                     </div>
                 </div>
             </div>
