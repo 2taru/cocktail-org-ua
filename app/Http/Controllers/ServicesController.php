@@ -15,4 +15,14 @@ class ServicesController extends Controller
     {
         return view('frontend-service');
     }
+
+    public function showGuestService()
+    {
+        return view('guest-service');
+    }
+
+    public function showPRROService()
+    {
+        return view('prro-service');
+    }
 }

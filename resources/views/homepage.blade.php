@@ -1,40 +1,68 @@
-<x-layout doctitle="Головна">
-    <!-- Header-->
-    <header class="bg-dark py-5">
+<x-layout doctitle="Програмний РРО (ПРРО) для ресторанів, барів та кафе"
+    description="Програмне забезпечення для автоматизації ресторанів, барів та кафе. 
+    Просте впровадження, широкий функціонал, стабільна робота, хмарне сховище та доступна ціна. 
+    Включає бек-офіс, фронт-офіс, управління меню, складський облік та підтримку програмних РРО.">
+    <!-- Header -->
+    <header class="bg-dark py-4 shadow" style="--bs-bg-opacity: .7;">
         <div class="container px-5">
             <div class="row gx-5 align-items-center justify-content-center">
-                <div class="col-lg-8 col-xl-7 col-xxl-8">
-                    <div class="my-5 text-center text-xl-start">
+                <div class="col-lg-8 col-xl-6 col-xxl-7">
+                    <div class="my-2 text-center text-xl-start">
                         <h1 class="display-5 fw-bolder text-white mb-2">Програмне забезпечення для ресторанів, барів та
                             кафе</h1>
-                        <ul class="list-unstyled mt-5 mb-3 text-light">
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Просте впровадження</li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Широкий функціонал</li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Стабільна робота</li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Гнучкість та адаптивність
-                            </li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Хмарне сховище</li>
-                            <li class="list-group-item mt-1"><i class="bi bi-caret-right"></i> Доступна ціна</li>
-                        </ul>
-
+                        <p class="lead fw-normal text-light mt-5">Відкрийте нові горизонти успішного управління вашим
+                            закладом разом з <b>Cocktail</b> – інноваційним програмним забезпеченням від компанії SKY
+                            TEK. Наш
+                            продукт створений, щоб спростити ваші щоденні операції, підвищити ефективність та збільшити
+                            прибуток.</p>
                     </div>
                 </div>
-                <div class="col-xl-5 col-xxl-4 d-none d-xl-block text-center">
-                    <img class="img-fluid rounded-3 my-5" src="/logo.png" alt="..." />
+                <div class="col-xl-6 col-xxl-5 d-none d-xl-block text-center">
+                    <img class="img-fluid rounded-3 my-5" src="https://dummyimage.com/600x500/343a40/6c757d" alt="Logo" title="logo" />
                 </div>
             </div>
         </div>
     </header>
+    <!-- About section two -->
+    <section class="py-2 rounded-5 mx-3">
+        <div class="container px-5 my-5">
+            <div class="row gx-5 align-items-center">
+                <h2 class="mb-5"><b>Cocktail</b> створений, щоб спростити ваші щоденні операції, підвищити
+                    ефективність роботи закладу, пришвидшити процес обслуговування та збільшити прибуток.
+                </h2>
+                <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
+                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
+                <div class="col-lg-6">
+                    <ul class="list-unstyled text-dark" style="font-size: 19px">
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> онлайн доступ на мобільних
+                            пристроях</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> контроль акцизних марок</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> прийом замовлення та передача
+                            на кухню чи бар, не відходячи від столика</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> вбудоване програмне РРО</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> можливість робити онлайн
+                            замовлення</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> робота з кількома ФОПами</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> предчеки замовлення одночасно
+                            на декілька підрозділів</li>
+                        <li class="list-group-item mt-2"><i class="bi bi-caret-right"></i> внесення приміток до подачі
+                            страв</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- Features section-->
-    <section class="py-5" id="features">
+    <section class="py-2 bg-light rounded-5 m-3 shadow mx-3" id="features" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5">
-                <div class="col-lg-4 mb-5 mb-lg-0">
-                    <h2 class="fw-bolder mb-0">Є все необхідне для автоматизації закладу будь-якого розміру та формату
+                <div class="col-lg-4">
+                    <h2 class="h3">Приєднуйтеся до спільноти успішних барів та ресторанів, які вже
+                        використовують програмне забезпечення від центру бізнес обслуговування <b>SKY TEK</b>.
                     </h2>
                 </div>
                 <div class="col-lg-8">
-                    <div class="row gx-5 row-cols-1 row-cols-md-2">
+                    <div class="row gx-5 row-cols-1 row-cols-md-2 ms-xl-2 mt-4 mt-xl-0">    
                         <div class="col mb-5 h-100">
                             <div class="text-dark rounded-3 mb-3">
                                 <i class="bi bi-back"></i>
@@ -57,7 +85,7 @@
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-people-fill"></i>
                             </div>
-                            <a href="#" class="text-decoration-none">
+                            <a href="/service/guest" class="text-decoration-none">
                                 <h2 class="h5 text-dark">Гість</h2>
                             </a>
                             <p class="mb-0">Ваші відвідувачі зможуть самостійно робити замовлення</p>
@@ -66,7 +94,7 @@
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-display"></i>
                             </div>
-                            <a href="#" class="text-decoration-none">
+                            <a href="/service/prro" class="text-decoration-none">
                                 <h2 class="h5 text-dark">ПРРО</h2>
                             </a>
                             <p class="mb-0">Підтримується одночасно декілька програмних РРО</p>

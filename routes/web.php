@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\EmailController;
 use App\Http\Controllers\GlobalController;
 use App\Http\Controllers\ServicesController;
 use Illuminate\Support\Facades\Route;
@@ -17,9 +18,16 @@ use Illuminate\Support\Facades\Route;
 
 // Global routes
 Route::get('/', [GlobalController::class, "showHomepage"]);
-Route::get('/faq', [GlobalController::class, "showFAQ"]);
+Route::get('/instruction', [GlobalController::class, "showInstruction"]);
 Route::get('/contact', [GlobalController::class, "showContact"]);
+Route::get('/pricing', [GlobalController::class, "showPricing"]);
+Route::get('/about', [GlobalController::class, "showAbout"]);
 
 // Services routes
 Route::get('/service/backend', [ServicesController::class, "showBackendService"]);
 Route::get('/service/frontend', [ServicesController::class, "showFrontendService"]);
+Route::get('/service/guest', [ServicesController::class, "showGuestService"]);
+Route::get('/service/prro', [ServicesController::class, "showPRROService"]);
+
+// Mail routes
+Route::post('/contact/send-email', [EmailController::class, "sendEmail"]);
