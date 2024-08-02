@@ -23,8 +23,6 @@
     <section class="py-2 rounded-5 mx-3">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Управління закупівлями</h2>
                     <ul class="list-unstyled mt-4 text-dark" style="font-size: 19px">
@@ -36,15 +34,6 @@
                             закупівлях товару чи заборгованості з постачальниками</li>
                     </ul>
                 </div>
-            </div>
-        </div>
-    </section>
-    <!-- Content section two-->
-    <section class="py-2 bg-light rounded-5 mx-3 shadow" id="scroll-target" style="--bs-bg-opacity: .4;">
-        <div class="container px-5 my-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Склад</h2>
                     <ul class="list-unstyled mt-4 text-dark" style="font-size: 19px">
@@ -60,27 +49,10 @@
             </div>
         </div>
     </section>
-    <!-- Content section three-->
-    <section class="py-2 rounded-5 mx-3">
-        <div class="container px-5 my-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
-                <div class="col-lg-6">
-                    <h2 class="fw-bolder">Виробництво</h2>
-                    <p class="lead fw-normal text-dark mb-0 mt-3">Розроблення та внесення калькуляцій допоможуть чітко
-                        вести облік товарів чи позицій у закладі та отримувати звітність.
-                    </p>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Content section four-->
+    <!-- Content section two-->
     <section class="py-2 bg-light rounded-5 mx-3 shadow" id="scroll-target" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center">
-                <div class="col-lg-6"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                 <div class="col-lg-6">
                     <h2 class="fw-bolder">Продажі</h2>
                     <ul class="list-unstyled mt-4 text-dark" style="font-size: 19px">
@@ -92,29 +64,16 @@
                             відмовах за період</li>
                     </ul>
                 </div>
-            </div>
-        </div>
-    </section>
-    <!-- Content section five-->
-    {{-- <section class="py-2 rounded-5 mx-3">
-        <div class="container px-5 my-5">
-            <div class="row gx-5 align-items-center">
-                <div class="col-lg-6 order-first order-lg-last"><img class="img-fluid rounded mb-5 mb-lg-0"
-                        src="https://dummyimage.com/600x400/343a40/6c757d" alt="..." /></div>
                 <div class="col-lg-6">
-                    <h2 class="fw-bolder">Фінанси</h2>
-                    <p class="lead fw-normal text-dark mb-0 mt-3">Визначення статтей руху коштів, створення касових
-                        виписок та коригування боргів.
-                    </p>
-                    <h2 class="fw-bolder mt-4">Адміністрування</h2>
-                    <p class="lead fw-normal text-dark mb-0 mt-3">Персоналізація Cocktail під свій заклад: підлаштування
-                        кількості залів, столів та їх розміщення, додавання адміністраторів та налаштування прав доступу
-                        до тої чи іншої функції програми.
+                    <h2 class="fw-bolder">Виробництво</h2>
+                    <p class="lead fw-normal text-dark mb-0 mt-3">Розроблення та внесення калькуляцій допоможуть чітко
+                        вести облік товарів чи позицій у закладі та отримувати звітність.
                     </p>
                 </div>
             </div>
         </div>
-    </section> --}}
+    </section>
+    <!-- Content section three-->
     <section class="py-2 rounded-5 mx-3">
         <div class="container px-5 my-5">
             <div class="row gx-5 align-items-center mt-3">
@@ -157,11 +116,11 @@
                 <div class="col-lg-6">
                     <ul class="nav nav-underline mb-3" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link active" id="finance-tab" data-bs-toggle="tab" href="#finance" role="tab"
+                            <a class="nav-link active text-dark" id="finance-tab" data-bs-toggle="tab" href="#finance" role="tab"
                                 aria-controls="finance" aria-selected="true">Фінанси</a>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <a class="nav-link" id="administration-tab" data-bs-toggle="tab" href="#administration"
+                            <a class="nav-link text-dark" id="administration-tab" data-bs-toggle="tab" href="#administration"
                                 role="tab" aria-controls="administration" aria-selected="false">Адміністрування</a>
                         </li>
                     </ul>
