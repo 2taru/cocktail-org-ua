@@ -48,7 +48,7 @@
                                 <li><a class="dropdown-item" href="/service/backend">Бек Офіс</a></li>
                                 <li><a class="dropdown-item" href="/service/frontend">Фронт Офіс</a></li>
                                 <li><a class="dropdown-item" href="/service/guest">Гість</a></li>
-                                <li><a class="dropdown-item" href="#">ПРРО</a></li>
+                                <li><a class="dropdown-item" href="/service/prro">ПРРО</a></li>
                             </ul>
                         <li class="nav-item"><a class="nav-link" href="/instruction">Інструкція</a></li>
                         </li>

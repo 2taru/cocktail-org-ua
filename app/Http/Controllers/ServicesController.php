@@ -20,4 +20,9 @@ class ServicesController extends Controller
     {
         return view('guest-service');
     }
+
+    public function showPRROService()
+    {
+        return view('prro-service');
+    }
 }
