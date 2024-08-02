@@ -23,16 +23,30 @@
                                         <h3 class="mb-2 h4">Офіс</h3>
                                         <p class="mb-2">Завітайте в наші офіси для консультації.</p>
                                         <hr class="w-50 mb-3 border-dark-subtle">
-                                        <address class="m-0 text-secondary"><b>м. Свалява</b> вул. Головна 35/1
-                                        </address>
-                                        <address class="m-0 text-secondary"><b>м. Мукачево</b> вул. Августина Штефана
-                                            25, Офіс 9, 2 поверх</address>
-                                        <address class="m-0 text-secondary"><b>м. Берегове</b> вул. Богдана
-                                            Хмельницького, 14</address>
-                                        <address class="m-0 text-secondary"><b>м. Іршава</b> вул. Поштова, 4/1
-                                        </address>
-                                        <address class="m-0 text-secondary"><b>с. Кушниця</b> вул. Центральна, 35
-                                        </address>
+                                        <a href="https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81+%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F+%22SKY+TEK%22/@48.548097,22.9841644,19.5z/data=!4m15!1m8!3m7!1s0x4739bae23163e71f:0xf7d567c36b556081!2z0JPQu9Cw0LLQvdCw0Y8g0YPQuy4sIDM1LCDQodCy0LDQu9GP0LLQsCwg0JfQsNC60LDRgNC_0LDRgtGB0LrQsNGPINC-0LHQu9Cw0YHRgtGMLCA4OTMwMA!3b1!8m2!3d48.5480595!4d22.9843519!16s%2Fg%2F11vxm2_nbs!3m5!1s0x4739bb1d85814991:0x6b64dc99336dcfce!8m2!3d48.5480595!4d22.9843519!16s%2Fg%2F11c4c19_lh?entry=ttu"
+                                            class="my-2 text-secondary" target="_blank">
+                                            <b>м. Свалява</b> вул. Головна 35/1
+                                        </a>
+                                        <br />
+                                        <a href="https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81+%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F+SKY+TEK/@48.4369797,22.7210412,18z/data=!4m9!1m2!2m1!1z0LwuINCc0YPQutCw0YfQtdCy0L4g0LLRg9C7LiDQkNCy0LPRg9GB0YLQuNC90LAg0KjRgtC10YTQsNC90LAgMjUsINCe0YTRltGBIDksIDIg0L_QvtCy0LXRgNGF!3m5!1s0x4739ad0454a99e1b:0x346ac493c8a95d9!8m2!3d48.4369274!4d22.7235248!16s%2Fg%2F11pv3s888m?entry=ttu"
+                                            class="my-2 text-secondary" target="_blank">
+                                            <b>м. Мукачево</b> вул. Августина Штефана 25, Офіс 9, 2 поверх
+                                        </a>
+                                        <br />
+                                        <a href="https://www.google.com/maps/search/?api=1&query=м.+Берегове+вул.+Богдана+Хмельницького,+14"
+                                            class="my-2 text-secondary" target="_blank">
+                                            <b>м. Берегове</b> вул. Богдана Хмельницького, 14
+                                        </a>
+                                        <br />
+                                        <a href="https://www.google.com/maps/search/?api=1&query=м.+Іршава+вул.+Поштова,+4/1"
+                                            class="my-2 text-secondary" target="_blank">
+                                            <b>м. Іршава</b> вул. Поштова, 4/1
+                                        </a>
+                                        <br />
+                                        <a href="https://www.google.com/maps/place/%D0%A6%D0%B5%D0%BD%D1%82%D1%80+%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81+%D0%BE%D0%B1%D1%81%D0%BB%D1%83%D0%B3%D0%BE%D0%B2%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F+SKY+TEK/@48.4358351,23.2497892,17z/data=!4m10!1m2!2m1!1z0YEuINCa0YPRiNC90LjRhtGPINCy0YPQuy4g0KbQtdC90YLRgNCw0LvRjNC90LAsIDM1!3m6!1s0x473831d75f57ecff:0xcda34aca67982d38!8m2!3d48.4344522!4d23.2529965!15sCjPRgS4g0JrRg9GI0L3QuNGG0Y8g0LLRg9C7LiDQptC10L3RgtGA0LDQu9GM0L3QsCwgMzWSAR5idXNpbmVzc19tYW5hZ2VtZW50X2NvbnN1bHRhbnTgAQA!16s%2Fg%2F11sms09pxs?entry=ttu"
+                                            class="my-2 text-secondary" target="_blank">
+                                            <b>с. Кушниця</b> вул. Центральна, 35
+                                        </a>
                                     </div>
                                 </div>
                                 <div class="row mb-sm-4 mb-md-5">
