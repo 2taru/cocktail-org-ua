@@ -17,10 +17,12 @@
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <!-- Bootstrap icons-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-    <!-- Core theme CSS (includes Bootstrap)-->
+    <!-- Bootstrap CSS-->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-    <!-- Font Montserrat-->
+    <!-- Custom CSS-->
+    <link rel="stylesheet" href="{{ asset('main.css') }}">
+    <!-- Google Font (Montserrat)-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
@@ -30,7 +32,7 @@
 <body class="d-flex flex-column h-100">
     <main class="flex-shrink-0">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg shadow bg-light" style="--bs-bg-opacity: .5;">
+        <nav id="nav--menu" class="navbar navbar-expand-lg shadow bg-light" style="--bs-bg-opacity: .5;">
             <div class="container px-5">
                 <a class="navbar-brand" href="/"><img src="/logo.svg" alt="label" title="label"
                         style="height: 50px;"></a>
@@ -39,7 +41,7 @@
                     aria-expanded="false" aria-label="Toggle navigation"><span
                         class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0" style="font-size: 18px !important;">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0" style="font-size: 18px; font-weight: 500;">
                         <li class="nav-item"><a class="nav-link" href="/">Головна</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button"
@@ -110,35 +112,6 @@
     </script>
     <!-- Core theme JS-->
     <script src="js/scripts.js"></script>
-    <style>
-        * {
-            font-family: "Montserrat", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: <weight>;
-            font-style: normal;
-        }
-
-        body {
-            background: linear-gradient(-45deg, #edcd9a, #e6e0b9, #c3e8e1, #d7e4c7, #ead3ea, #edd1e1);
-            background-size: 400% 400%;
-            animation: gradient 15s ease infinite;
-            height: 100vh;
-        }
-
-        @keyframes gradient {
-            0% {
-                background-position: 0% 50%;
-            }
-
-            50% {
-                background-position: 100% 50%;
-            }
-
-            100% {
-                background-position: 0% 50%;
-            }
-        }
-    </style>
 </body>
 
 </html>

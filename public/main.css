@@ -1,0 +1,35 @@
+/* font */
+* {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* bg gradient */
+body {
+    background: linear-gradient(-45deg, #edcd9a, #e6e0b9, #c3e8e1, #d7e4c7, #ead3ea, #edd1e1);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* nav font styles */
+#nav--menu ul{
+    font-size: 18px; 
+    font-weight: 500;
+}
