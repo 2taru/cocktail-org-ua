@@ -53,7 +53,7 @@
         </div>
     </section>
     <!-- Features section-->
-    <section class="py-2 bg-light rounded-5 m-3 shadow mx-3" id="features" style="--bs-bg-opacity: .4;">
+    <section id="features--section" class="py-2 bg-light rounded-5 m-3 shadow mx-3" style="--bs-bg-opacity: .4;">
         <div class="container px-5 my-5">
             <div class="row gx-5">
                 <div class="col-lg-4">
@@ -63,7 +63,7 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="row gx-5 row-cols-1 row-cols-md-2 ms-xl-2 mt-4 mt-xl-0">    
-                        <div class="col mb-5 h-100">
+                        <div class="col mb-5 h-100 service">
                             <div class="text-dark rounded-3 mb-3">
                                 <i class="bi bi-back"></i>
                             </div>
@@ -72,7 +72,7 @@
                             </a>
                             <p class="mb-0">Управління процесами, облік, аналітика</p>
                         </div>
-                        <div class="col mb-5 h-100">
+                        <div class="col mb-5 h-100 service">
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-front"></i>
                             </div>
@@ -81,7 +81,7 @@
                             </a>
                             <p class="mb-0">Касова програма зі зручним інтерфейсом</p>
                         </div>
-                        <div class="col mb-5 mb-md-0 h-100">
+                        <div class="col mb-5 mb-md-0 h-100 service">
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-people-fill"></i>
                             </div>
@@ -90,7 +90,7 @@
                             </a>
                             <p class="mb-0">Ваші відвідувачі зможуть самостійно робити замовлення</p>
                         </div>
-                        <div class="col h-100">
+                        <div class="col h-100 service">
                             <div class="feature text-dark rounded-3 mb-3">
                                 <i class="bi bi-display"></i>
                             </div>

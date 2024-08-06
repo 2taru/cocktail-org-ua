@@ -82,11 +82,11 @@
     <!-- Footer-->
     <footer class="bg-dark py-4 mt-auto pb-3" style="--bs-bg-opacity: .8;">
         <div class="container px-5">
-            <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                <div class="col-auto">
+            <div class="row align-items-center justify-content-md-between justify-content-around flex-column flex-sm-row">
+                <div class="col-auto mb-2 mb-md-0">
                     <div class="small m-0 text-white">Copyright &copy; SkyTek {{ date('Y') }}</div>
                 </div>
-                <div class="col-auto">
+                <div class="col-auto mb-2 mb-md-0">
                     <p class="small m-0">
                         <a class="text-white text-decoration-none"
                             href="tel:+380509090109">+38 050 90 90 109</a>

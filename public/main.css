@@ -37,7 +37,7 @@ body {
 }
 
 /* nav font styles */
-#nav--menu ul {
+#nav--menu li {
     font-size: 18px;
     font-weight: 500;
 }
@@ -47,5 +47,13 @@ body {
     transition: 0.5s;
     &:hover {
         transform: scale(1.05);
+    }
+}
+
+/* features img animation */
+#features--section .service {
+    transition: 0.5s;
+    &:hover {
+        transform: scale(1.03);
     }
 }
